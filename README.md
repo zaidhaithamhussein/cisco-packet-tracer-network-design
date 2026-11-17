@@ -2,10 +2,6 @@
 
 A university networking project modeled in **Cisco Packet Tracer**. The simulation file includes a multi-site network topology with interconnected routers, switches, local networks, wireless access points, end-user devices, and a central server area.
 
-## Network topology
-
-![Network topology](screenshots/network-topology.png)
-
 ## Project overview
 
 The topology illustrates:
